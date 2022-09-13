@@ -1,19 +1,19 @@
-Sample,Far,High,Low,length,width,depth
-copper,0,0.01,-0.008,32.48mm,9.47mm,9.48mm
-aluminum,0,-0.009,0.015,31.92mm,9.47mm,9.4mm
-titanium,0,-0.131,0.133,32.86mm,9.55mm,9.5mm
-bismuth,0,0.066,-0.07,,,
-cobal wire,0,-0.198,0.211,,,
-pyrolytic graphite ,0,0.098,-0.096,,,
-hexahydrate,0,-0.243,0.241,,,
-gadolinium oxide,0,-2.573,2.576,,,
-erbium oxide,0,-5.268,5.072,,,
-Mohr's salt,0,-0.37,0.37,,,
-iron alum,0,-0.308,0.338,,,
-blue vitriol,0,-0.079,0.071,,,
-copper acetate,0,-0.042,0.045,,,
-manganese oxide,0,-1.273,1.296,,,
-manganese chloride tetrahydrate,0,-0.877,0.925,,,
-nickel zinc ferrite,0,-2.351,2.262,,,
-17,0,0.01,-0.006,,,
-18,0,-0.029,0.003,,,
+SampleNumber,Sample,Far,High,Low,length,width,depth,State,Mass,Density
+1,copper,0,0.01,-0.008,32.48mm,9.47mm,9.48mm,solid,,
+2,aluminum,0,-0.009,0.015,31.92mm,9.47mm,9.4mm,solid,,
+3,titanium,0,-0.131,0.133,32.86mm,9.55mm,9.5mm,solid,,
+4,bismuth,0,0.066,-0.07,,,,powder,15.412,9.78
+5,cobal wire,0,-0.198,0.211,,,,Na,,
+6,pyrolytic graphite ,0,0.098,-0.096,,,,Na,,
+7,hexahydrate,0,-0.243,0.241,,,,Na,,
+8,gadolinium oxide,0,-2.573,2.576,,,,powder,6.301,7.41
+9,erbium oxide,0,-5.268,5.072,,,,powder,8.513,8.64
+10,Mohr's salt,0,-0.37,0.37,,,,powder,3.487,1.86
+11,iron alum,0,-0.308,0.338,,,,powder,1.834,1.71
+12,blue vitriol,0,-0.079,0.071,,,,powder,4.329,3.6
+13,copper acetate,0,-0.042,0.045,,,,powder,3.376,1.032
+14,manganese oxide,0,-1.273,1.296,,,,powder,5.746,5.37
+15,manganese chloride tetrahydrate,0,-0.877,0.925,,,,Na,,
+16,nickel zinc ferrite,0,-2.351,2.262,,,,powderMix,3.942,2.92
+17,17,0,0.01,-0.006,,,,Na,,
+18,18,0,-0.029,0.003,,,,Na,,
